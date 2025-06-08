@@ -17,6 +17,14 @@ The analysis includes:
 - **Interactive Tableau dashboard**
 - **Deep dive into business questions like seasonality, holiday impact, and fuel sensitivity**
 
+An interactive Tableau Dashboard can be found [here](https://public.tableau.com/app/profile/nguyen.nguyen4911/viz/WalmartSalesAnalysis_17493534478990/WalmartSalesAnalysis?publish=yes)
+
+The SQL queries utilized to inspect and perform quality check can be found [here](https://github.com/nguyenpn1596/Walmart-Sales-Analysis/blob/main/1_inspection.sql)
+
+The SQL quries utilized to clean, organized and transformed data for dashboard can be found [here](https://github.com/nguyenpn1596/Walmart-Sales-Analysis/blob/main/2_cleaning.sql)
+
+Targerted SQL queries to answer various business questions can be found [here](https://github.com/nguyenpn1596/Walmart-Sales-Analysis/blob/main/3_business_exploratory_analysis.sql)
+
 ---
 
 ## 📊 2. Data Structure Overview
@@ -42,7 +50,7 @@ Key visual insights from the Tableau dashboard:
 - **🎉 Holiday Impact:** Holiday weeks deliver ~7.6% higher sales than non-holiday weeks.
 - **⛽ Fuel Sensitivity:** Higher fuel prices slightly correlate with lower sales (visible in the scatter plot).
 - **🌡 Temperature Effect:** Warmer temperatures show increased sales, especially in spring and summer months.
-- **🏪 Top Performing Stores:** Stores 4, 20, and 37 consistently rank as top revenue generators.
+- **🏪 Top Performing Stores:** Stores 20, 4, and 14 consistently rank as top revenue generators.
 
 ---
 
@@ -129,11 +137,3 @@ Key visual insights from the Tableau dashboard:
 
 ---
 
-## 📬 Contact
-
-**Nguyen P. Nguyen**  
-System Engineer | Data Analyst Portfolio  
-📧 winston.nguyen@example.com  
-📍 LinkedIn / Portfolio / GitHub: [Your Links]
-
----
